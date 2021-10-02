@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+header {background-color: #428A30;}
+
+header p{text-align: center;
+font-size: 45;
+color: white;
+padding: 5px;}
+
+a{text-decoration: none;
+color: gray;
+margin: 300px;
+border: black;}
+
+nav{margin: 10px;}
+
+footer {background-color: #428A30;}
